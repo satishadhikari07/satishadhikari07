@@ -1,7 +1,7 @@
 Hi there !! &nbsp; <img src="https://github.com/S4tish07/S4tish07/blob/main/Images/download.gif" width="4%"></a>
 
 
-This is the place where I opensource stuffs 😊
+This is the place where I opensource my works 😊
 
 <!--
 **satishadhikari07/satishadhikari07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
