@@ -1,4 +1,4 @@
-Hi there !! &nbsp; <img src="https://github.com/satishadhikari07/satishadhikari07/blob/main/Files%20for%20Profile%20Config/tenor.gif" width="3%"></a> <br>
+Hi there !! &nbsp; <img src="https://" width="3%"></a> <br>
 Welcome to my github profile ! <br>
 This is the place where I opensource my works. 😊
 
