@@ -1,4 +1,5 @@
-Hi there !! &nbsp; <img src="https://" width="3%"></a> <br>
+ <img src="https://github.com/satishadhikari07/satishadhikari07/blob/main/Files%20for%20Profile%20Config/DALL%C2%B7E%202025-01-23%2017.33.19%20-%20A%20cartoon%20illustration%20of%20a%20young%20electrical%20engineer%20wearing%20a%20T-shirt%20labeled%20'Electrical%20Engineer%2C'%20with%20fluffy%20Einst.webp"></a> <br>
+Hi there !! &nbsp; <img src="https://github.com/satishadhikari07/satishadhikari07/blob/main/Files%20for%20Profile%20Config/tenor.gif" width="3%"></a> <br>
 Welcome to my github profile ! <br>
 This is the place where I opensource my works. 😊
 
