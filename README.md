@@ -1,6 +1,5 @@
 Hi there !! &nbsp; <img src="https://github.com/satishadhikari07/satishadhikari07/blob/main/Files%20for%20Profile%20Config/tenor.gif" width="3%"></a> <br>
-Welcome to my github profile ! <br>
-This is the place where I opensource my works. 😊
+Welcome to my github profile ! 😊 <br>
 
 <!--
 **satishadhikari07/satishadhikari07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
